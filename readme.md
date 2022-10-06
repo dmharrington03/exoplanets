@@ -1,7 +1,12 @@
 # Exoplanet Data Analysis
 
-Resources:
-- [NASA Data](https://www.nasa.gov/open/data.html)
-- [Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PS&constraint=default_flag=1&constraint=disc_facility+like+%27%25TESS%25%27)
-- [Planetary Habitability Laboratory](https://phl.upr.edu/projects/habitable-exoplanets-catalog)
-- [Kepler Mission Announcement](https://www.nasa.gov/press-release/nasas-kepler-mission-announces-largest-collection-of-planets-ever-discovered)
+An exploration of exoplanet data provided by NASA and the Planetary Habitability Library (PHL) at the University of Puerto Rico.
+
+Made with matplotlib, numpy, and Pandas.
+
+Figures:
+
+![ESI Phase](img/esi_phase.jpg)
+![ESI Parameters](img/parameters_v_esi.jpg)
+![ESI Phase](img/flux_v_temp.jpg)
+![ESI Phase](img/discoveries.jpg)
